@@ -1,4 +1,4 @@
-# GenAgents Project
+# LLM-agents for online forunm simulation under disaster Project
 
 This is an intelligent agent generation system based on Flask and OpenAI.
 
